@@ -1,8 +1,3 @@
-/*
-*File: is the function lower case
-*Auth: Dr Marcus Imagwe
-*/
-
 #include "main.h"
 /**
 *_islower -check if a character is lowercase.
