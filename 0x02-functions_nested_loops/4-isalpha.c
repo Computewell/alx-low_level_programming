@@ -1,8 +1,3 @@
-/*
-*File: is the function lowercase or uppercase
-*Auth: Dr Marcus Imagwe
-*/
-
 #include "main.h"
 /**
 *_isalpha -check if a character is lowercase or uppercase.
