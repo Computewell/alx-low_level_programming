@@ -1,8 +1,3 @@
-/*
-*File: alphabet ten times
-*Auth: Dr Marcus IMAGWE
-*/
-
 #include "main.h"
 
 /**
