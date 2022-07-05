@@ -1,8 +1,4 @@
-/*
- * File: 1-alphabet.c
- *
- * Auth: Dr Marcus imagwe
- */
+
 
 #include "main.h"
 
