@@ -1,7 +1,3 @@
-/*
-*File: 11-print_to_98.c
-*Auth: Dr Marcus Imagwe
-*/
 #include <stdio.h>
 /**
  * print_to_98 - print to 98
