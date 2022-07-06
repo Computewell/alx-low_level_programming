@@ -1,8 +1,3 @@
-/*
-*File: 8-24_hours.c
-*Auth: Dr Imgawe Marcus
-*/
-
 #include "main.h"
 /**
  * jack_bauer - Prints every minute of the day of

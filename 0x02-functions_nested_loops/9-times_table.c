@@ -1,8 +1,3 @@
-/*
-*File: 9-times_table.c
-*Auth: Dr Imagwe Marcus
-*/
-
 #include "main.h"
 /**
  * times_table - Prints the 9 times table, starting with 0.

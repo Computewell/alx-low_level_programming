@@ -1,8 +1,3 @@
-/*
-*File: 5-sign.c
-*Auth: Dr Marcus Imagwe
-*/
-
 #include "main.h"
 /**
 *print_sign -prints the sign of a number.

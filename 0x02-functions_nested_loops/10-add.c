@@ -1,8 +1,3 @@
-/*
-*File: 10-add.c
-*Auth: Dr Imagwe Marcus
-*/
-
 #include "main.h"
 /**
  * add - Adds two integers.

@@ -1,8 +1,3 @@
-/*
-*File: 100-times_table.c
-*Auth: Dr Marcus Imagwe
-*/
-
 #include "main.h"
 /**
  * print_times_table - prints times table
