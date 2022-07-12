@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * puts_half - half of a string
- * @str: string to be printed
+ * puts_half - half of a string.
+ * @str: string to be printed.
  */
 void puts_half(char *str)
 {
@@ -11,7 +11,7 @@ void puts_half(char *str)
 	while (str[i++])
 		len++;
 
-        if ((len % 2) == 0)
+	if ((len % 2) == 0)
 		j = len / 2;
 
 	else
