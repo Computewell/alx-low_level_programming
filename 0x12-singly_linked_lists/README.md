@@ -3,6 +3,7 @@
 Singly linked list is the most common linked list among data structures. The singly linked list can be
 traversed only in one direction. It is a collection of ordered sets of elements. In singly linked
 list, Each node has a data and a pointer to the next node.
+
 ![Single link lists](https://res.cloudinary.com/practicaldev/image/fetch/s--dWwH4rJ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2021/07/Linked-Lists-in-C-normal-image01.jpg)
 # Tasks
 File 0-print_list.c is a function that prints all the elements of a list_t list.
