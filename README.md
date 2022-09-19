@@ -1,6 +1,5 @@
-# C-Programming Language Tasks
 # Low-level programming & Algorithm
-Module of Low-level programming and algorithm, carried out during Full Stack Software Engineering studies at ```ALX SE``` and ```Holberton School```.
+### Module of Low-level programming and algorithm, carried out during Full Stack Software Engineering studies at ```ALX SE``` and ```Holberton School```.
 
 ![C](https://res.cloudinary.com/practicaldev/image/fetch/s--dWwH4rJ4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://media.giphy.com/media/4OAxDXv4RdUeg38JYi/giphy.gif)
 
